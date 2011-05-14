@@ -1,0 +1,17 @@
+{
+    "name": "authnet_cim"
+  , "description": "Authorize.net CIM Interface"
+  , "version": "0.1"
+  , "author": "Jesse Pate <jesse@stateoftomorrow.tv>"
+  , "keywords": ["gateway", "authorize.net", "cim", "payment", "credit card"]
+  , "dependencies": {
+	'xml2js':"0.1.6"
+  }
+  , "directories": { "lib": "./lib" }
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.2.0" }
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/jessedpate/authnet_cim.git"
+    }
+}
