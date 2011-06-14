@@ -1,7 +1,7 @@
 {
  "name": "authnet_cim",
  "description": "Authorize.net CIM Interface. Not yet production ready.",
- "version": "0.1.1",
+ "version": "0.1.2",
  "author": "Jesse Pate <jesse@stateoftomorrow.tv>",
  "keywords": ["gateway", "authorize.net", "cim", "payment", "credit card"],
  "dependencies": {
