@@ -1,7 +1,7 @@
 {
   "name": "authnet_cim",
-  "description": "Authorize.net CIM Interface. Not yet production ready.",
-  "version": "0.1.3",
+  "description": "Authorize.net CIM Interface.",
+  "version": "0.2.0",
   "author": {
     "name": "Jesse Pate",
     "email": "jesse@stateoftomorrow.tv"
